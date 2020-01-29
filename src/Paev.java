@@ -6,10 +6,9 @@ public class Paev {
 
     @Override
     public String toString() {
-        return "Paev: " +
+        return "\nPaev: " +
                 "\nkuupaev: " + kuupaev +
                 "\nTunnid: " + tundideNimekiri +
-                "\n"
-                ;
+                "\n";
     }
 }

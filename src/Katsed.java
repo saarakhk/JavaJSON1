@@ -49,11 +49,8 @@ public class Katsed {
         neljasTund.opetaja = "Anna Karutina";
         neljasTund.ruum = "Kopli A - A411 (arvutiklass)";
 
-        System.out.println(kolmasTund);
-        System.out.println(neljasTund);
 
         // 5. tund
-        System.out.println(neljasTund);	        // loo Tund objekt
         Tund viiesTund = new Tund();
         // lisa väärtused
         viiesTund.tund = "6";
